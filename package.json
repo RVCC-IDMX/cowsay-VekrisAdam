@@ -1,0 +1,20 @@
+{
+  "name": "cowsay-vekrisadam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RVCC-IDMX/cowsay-VekrisAdam.git"
+  },
+  "keywords": [],
+  "author": "Adam Vekris <avek4452@stu.raritanval.edu> (https://github.com/VekrisAdam)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RVCC-IDMX/cowsay-VekrisAdam/issues"
+  },
+  "homepage": "https://github.com/RVCC-IDMX/cowsay-VekrisAdam#readme"
+}
