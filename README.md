@@ -1,5 +1,5 @@
 # cowsay
-## write text accompanied by your choice of a variety cows and animals
+## Write text accompanied by your choice of a variety of cows and animals
 
 
 ```
